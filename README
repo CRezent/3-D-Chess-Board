@@ -14,12 +14,12 @@ Key bindings
   ESC        Exit
 
 Final:
-	This program allows a user to simulate a chess game. Pieces can be moved from tile to tile and if they are taken, they are removed
-	from the board an aligned along the side. The scene can be viewed from any custom angle and has four different texture/ color
-	variants that can be used. I was trying to get the pieces to move in a parabolic motion between moves or off the board if they
-	were taken but I was unable to get that work properly. I left that code in and just commented it out so you can see what I was 
-	working on.
+This program allows a user to simulate a chess game. Pieces can be moved from tile to tile and if they are taken, they are removed
+from the board an aligned along the side. The scene can be viewed from any custom angle and has four different texture/ color
+variants that can be used. I was trying to get the pieces to move in a parabolic motion between moves or off the board if they
+were taken but I was unable to get that work properly. I left that code in and just commented it out so you can see what I was 
+working on.
 
 Sources:
-	Letters and Numbers:
-	https://www.freepik.com/free-vector/flat-design-stencil-symbols-letters_32358239.htm#fromView=search&page=1&position=35&uuid=d28d6ba3-92e6-4be8-912a-f1e565c1121b
+Letters and Numbers:
+https://www.freepik.com/free-vector/flat-design-stencil-symbols-letters_32358239.htm#fromView=search&page=1&position=35&uuid=d28d6ba3-92e6-4be8-912a-f1e565c1121b
